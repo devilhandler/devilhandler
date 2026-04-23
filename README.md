@@ -1,5 +1,13 @@
-## Hi there 👋
+## 👨‍💻 About Me
+Hello there! I'm **Hilmi**, an aspiring **AI Engineer** and **Graphics Programmer**. Currently exploring the language of **OpenGL**, **GLSL**, and **C++** to build the important basic foundation on **Graphics Programming**. ⚒️🤖
 
+## ⚙️ Used Programming/Scripting Language
+<p>
+  <img src="images/C++.png" width="50" height="60" alt="C++">
+</p>
+<p>
+  <img src="images/LuaU.png" width="50" height="50" alt="LuaU">
+</p>
 <!--
 **devilhandler/devilhandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
