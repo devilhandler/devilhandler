@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-Hello there! I'm **Hilmi**, an aspiring **AI Engineer** and **Graphics Programmer**. Currently exploring the language of **OpenGL**, **GLSL**, and **C++** to build the important basic foundation on **Graphics Programming**. ⚒️🤖
+Hello there! I'm **Hilmi**, an aspiring **AI Engineer** and **Graphics Programmer**. Currently exploring **OpenGL**, **GLSL**, and **C++** for building the important basic foundation inside **Graphics Programming**. ⚒️🤖
 
 ## ⚙️ Used Programming/Scripting Language
 <p>
