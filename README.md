@@ -8,6 +8,9 @@ Hello there! I'm **Hilmi**, an aspiring **AI Engineer** and **Graphics Programme
 <p>
   <img src="images/LuaU.png" width="50" height="50" alt="LuaU">
 </p>
+
+🌱 I’m currently learning OpenGL, and C++.
+🔭 I’m currently working on Rogue Engine, a custom game engine I am building.
 <!--
 **devilhandler/devilhandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
