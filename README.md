@@ -1,6 +1,8 @@
 ## 👨‍💻 About Me
 Hello there! I'm **Hilmi**, an aspiring **AI Engineer** and **Graphics Programmer**. Currently exploring **OpenGL**, **GLSL**, and **C++** for building the important basic foundation inside **Graphics Programming**. ⚒️🤖
 
+I have **5 years+ of experience** in **Roblox Studio**, making **platformer** and **maze** genres games. I had work in making the game's **UI**, **game mechanics**, **core server scripts**, and other things that I may have forgotten about.
+
 ## ⚙️ Used Programming/Scripting Language
 <p>
   <img src="images/C++.png" width="50" height="60" alt="C++">
